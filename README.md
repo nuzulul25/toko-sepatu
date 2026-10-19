@@ -3,7 +3,6 @@
 Aplikasi berbasis web sederhana menggunakan PHP (Native) dan MySQL untuk mengelola inventaris, transaksi stok, serta autentikasi pengguna pada toko sepatu.
 
 **Struktur Direktori & File Proyek**
-
 toko_sepatu/
 ├── config/
 │   └── database.php          # Konfigurasi koneksi ke database MySQL
